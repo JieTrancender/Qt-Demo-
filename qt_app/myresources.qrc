@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>time.jpg</file>
+        <file>r_title_bg.jpg</file>
+        <file>li.jpg</file>
+        <file>h_line.jpg</file>
+    </qresource>
+</RCC>
