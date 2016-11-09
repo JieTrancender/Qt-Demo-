@@ -2,7 +2,14 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QtNetwork>
+#include <QHostInfo>
+#include <QNetworkAccessManager>
+#include <QUrl>
+#include <QFile>
+#include <QNetworkReply>
+#include <QFileInfo>
+#include <QNetworkInterface>
+#include <QList>
 
 namespace Ui {
 class MainWindow;
